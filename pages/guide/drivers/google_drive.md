@@ -260,7 +260,7 @@ Similar to Aliyun Drive, it is the last string of the official website URL, such
 
    7.1. Check `Use online api`, indicating to use the online API provided by OpenList.
 
-   7.2. Fill in the Api url address as `https://api.oplist.org/googleui/renewapi`. If it is `Public Server/Self-hosted Server`, please fill in the corresponding server address.
+   7.2. Fill in the API URL address as `https://api.oplist.org/googleui/renewapi`. If it is `Public Server/Self-hosted Server`, please fill in the corresponding server address.
 
    ![google-07-d](/img/drivers/google/google-07-d.png#dark)
    ![google-07-l](/img/drivers/google/google-07-l.png#light)
